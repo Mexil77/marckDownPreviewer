@@ -12,7 +12,6 @@ export default class TextArea extends Component {
           onChange={this.props.inputText}
           value={this.props.text}
         ></textarea>
-        <h1>Hola</h1>
       </div>
     );
   }
