@@ -1,7 +1,5 @@
 import React, { Component } from "react";
 
-import "../cssComponents/TextArea.css";
-
 export default class TextArea extends Component {
   render() {
     return (
